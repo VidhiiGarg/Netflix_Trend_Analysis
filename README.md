@@ -1,4 +1,4 @@
-#Netflix Content Trends & Viewer Insights Through Data Visualization 
+# Netflix Content Trends & Viewer Insights Through Data Visualization 
 
 In this project, I explore and uncover patterns hidden inside the Netflix dataset using data visualization techniques. The analysis focuses on understanding the type of content available on Netflix and identifying trends in movies and TV shows through visual storytelling.
 
