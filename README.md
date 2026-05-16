@@ -49,13 +49,6 @@ The objective of this project is to practice exploratory data analysis and visua
 ---
 
 
-
-## Project Goal
-
-The main goal of this project is to strengthen data analysis and visualization skills by working with a real-world entertainment dataset and extracting meaningful insights through visual exploration.
-
----
-
 ## Visualizations Included
 
 - Content Type Distribution  
@@ -67,7 +60,6 @@ The main goal of this project is to strengthen data analysis and visualization s
  
 
 ---
-
 
 ## Dataset Source :
 https://www.kaggle.com/shivamb/netflix-shows
