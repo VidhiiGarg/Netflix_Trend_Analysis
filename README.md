@@ -68,9 +68,6 @@ The main goal of this project is to strengthen data analysis and visualization s
 
 ---
 
-##  Conclusion
-
-This project demonstrates how data visualization can transform raw data into meaningful insights, helping understand content trends, audience preferences, and Netflix’s global content strategy.
 
 ## Dataset Source :
 https://www.kaggle.com/shivamb/netflix-shows
